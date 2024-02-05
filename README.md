@@ -14,7 +14,7 @@
 
 
 
-Task 3 WHich is (Predictive Modeling with Linear Regression)
+Task 3 Which is (Predictive Modeling with Linear Regression)
 The goal of my Task is to analyze and predict the median house value based on various features related to houses in a California district.
 Data Source: The dataset is obtained from Kaggle, and it contains information about houses based on the 1990 census data. The columns include features such as longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, median house value, and ocean proximity.
 Context: The data is not cleaned, so preprocessing steps are required to handle missing values and scale the features appropriately.
@@ -54,3 +54,13 @@ Feature engineering is performed to create new relevant features.
 The data is split into training and testing sets for model training and evaluation.
 Linear Regression is used for predicting median house values.
 The RMSE metric is employed for model evaluation.
+
+
+Task 4 which is (A/B Testing Analysis)
+we have results of A/B tests from two hotel booking websites . 
+First, we need to conduct a test analysis of the data; 
+second, we need to draw conclusions from the data which we obtained from the first step,
+and in the final step, we make recommendations or suggestions to the product or management teams.
+
+
+
